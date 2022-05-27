@@ -1,0 +1,18 @@
+{
+  "Source": "030819_Weekly Stock Screen And Watch List",
+  "Week": "14",
+  "month":"3",
+  "date" : "20200331",
+  "Ticker List": [
+    "GMAB",
+    "PYPL",
+    "VRTX",
+    "EPAM",
+    "VEEV",
+    "RGEN",
+    "LULU",
+    "SGEN",
+    "ZM"
+
+  ]
+}
