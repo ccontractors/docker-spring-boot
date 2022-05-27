@@ -23,7 +23,7 @@ public class HelloResource {
 
     @GetMapping
     public String hello() {
-        return "Welcome to clausen.tech";
+        return "Welcome to clausen.tech 2022 (c) - reference site";
     }
 
 //    @RequestMapping("/")
